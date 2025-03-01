@@ -11,3 +11,6 @@ The tool lets you choose between different modes of operation:
 The program also automatically detects your public IP address by fetching it from an external service. After that, it starts checking the ports, providing clear feedback with color-coded results. Green means a port is open, and red means it’s closed. This gives you instant insights into your network’s accessibility.
 
 It’s a lightweight script that runs on Linux (GNU) systems and is built to be fast and simple. If you want to check if your server or device is ready for certain types of network connections, this script is a great way to get that information quickly.
+
+![Port Scanner GIF](https://i.hizliresim.com/diewwmf.gif)
+
