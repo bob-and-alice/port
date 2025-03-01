@@ -1,6 +1,6 @@
 # Port Scanner
 
-This program is a simple but powerful network tool designed to help you scan ports on your machine or any other machine over the internet. Whether you're a developer trying to ensure that your server is configured correctly, or just a curious user wanting to check if certain ports are open or closed, this script has got you covered.
+This program is a simple but powerful network tool designed to help you scan ports on your machine. Whether you're a developer trying to ensure that your server is configured correctly, or just a curious user wanting to check if certain ports are open or closed, this script has got you covered.
 
 The tool lets you choose between different modes of operation:
 
@@ -20,9 +20,10 @@ Here’s a quick demo of the Port Scanner in action:
 
 ## Installation
 
-To use the Port Scanner, clone the repository and install the required dependencies:
+To install the Port Scanner, you can simply use the provided `install.sh` script. This will automatically install the necessary dependencies and set up the program for you.
+
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/bob-and-alice/port.git
 cd port
-pip install -r requirements.txt
