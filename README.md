@@ -16,7 +16,7 @@ It’s a lightweight script that runs on Linux (GNU) systems and is built to be 
 
 Here’s a quick demo of the Port Scanner in action:
 
-![Port Scanner GIF](https://i.hizliresim.com/diewwmf.gif)
+![Port Scanner GIF](https://raw.githubusercontent.com/bob-and-alice/port/main/ezgif-6ae01aff87170a.gif)
 
 ## Installation
 
